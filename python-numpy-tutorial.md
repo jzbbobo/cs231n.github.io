@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python Numpy Tutorial
+title: Python之Numpy快速上手
 permalink: /python-numpy-tutorial/
 ---
 
@@ -20,24 +20,13 @@ Python:
 
 Numpy
 -->
+本教程翻译自 [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
+python是一个简单易学的解释性语言，而且具有大量的第三方库可以用来解决很多问题，选择python作为仿真和科学计算绝对没错。
+该教程将会带领你熟悉python的基本语法和它用于科学计算的方法。
 
-This tutorial was contributed by [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
+如果你对matlab的用法很熟悉的话，那么你可以参考这个连接 [matlab-python numpy](http://wiki.scipy.org/NumPy_for_Matlab_Users).
 
-We will use the Python programming language for all assignments in this course.
-Python is a great general-purpose programming language on its own, but with the
-help of a few popular libraries (numpy, scipy, matplotlib) it becomes a powerful
-environment for scientific computing.
-
-We expect that many of you will have some experience with Python and numpy;
-for the rest of you, this section will serve as a quick crash course both on
-the Python programming language and on the use of Python for scientific
-computing.
-
-Some of you may have previous knowledge in Matlab, in which case we also recommend the [numpy for Matlab users](http://wiki.scipy.org/NumPy_for_Matlab_Users) page.
-
-You can also find an [IPython notebook version of this tutorial here](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) created by [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/) and [Isaac Caswell](https://symsys.stanford.edu/viewing/symsysaffiliate/21335) for [CS 228](http://cs.stanford.edu/~ermon/cs228/index.html).
-
-Table of contents:
+目录:
 
 - [Python](#python)
   - [Basic data types](#python-basic)
